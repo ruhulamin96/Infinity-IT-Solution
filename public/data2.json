@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "img": "./images/hardware.jpg",
+    "price":300,
+    "title": "Hardware Solution",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "2",
+    "img": "./images/software.jpg",
+    "price":500,
+    "title": "Software Solution",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "3",
+    "img": "./images/troubleshooting.png",
+    "price":250,
+    "title": "Troubleshooting",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "4",
+    "img": "./images/graphicsdesign.jpg",
+    "price":100,
+    "title": "Graphics Design",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "5",
+    "img": "./images/webdesign.jpg",
+    "title": "Web Design",
+    "price":300,
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "6",
+    "img": "./images/digitalmarketing.jpg",
+    "price":370,
+    "title": "Digital Marketing",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  {
+    "id": "7",
+    "img": "./images/hardware.jpg",
+    "price":300,
+    "title": "Java Programing",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },
+  
+  {
+    "id": "8",
+    "img": "./images/troubleshooting.png",
+    "price":250,
+    "title": "App Development",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  },{
+    "id": "9",
+    "img": "./images/software.jpg",
+    "price":500,
+    "title": "Social Media Marketing",
+    "desc": "Computer hardware includes the physical parts of a computer, such as the case, central processing unit, monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. By contrast, software is the set of instructions that can be stored and run by hardware"
+  }
+]

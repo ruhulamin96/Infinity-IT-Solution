@@ -1,0 +1,22 @@
+.move {
+  animation: up 3s infinite;
+  position: relative;
+}
+@keyframes up {
+  0% {
+    top: 0px;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0px;
+  }
+}
+.my-image {
+  height: 200px;
+}
+.shadow {
+  
+  box-shadow: 10px 10px 12px 6px grey;
+}
