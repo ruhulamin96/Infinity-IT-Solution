@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Infinity IT Institute
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site link[Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## The Focus Point of this Project are below
 
-In the project directory, you can run:
+1. This Project Based on React
+2. Its IT institute site that Provide different solution
+3. I have used Hooks, Router, Context API of React Feature
 
 ### `npm start`
 
